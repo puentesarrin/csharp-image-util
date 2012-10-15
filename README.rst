@@ -6,4 +6,6 @@ This is a library with many methods for image operations -and save time & work- 
 A usage example:
 
 
->>> CSharp.ResizingAndSaving.ResizeAndSaveAsJpeg(BytesOfImage, "/home/puentesarrin/avatar.jpeg", width, height);
+>>> int width = 50, height = 30;
+>>> string path = "/home/puentesarrin/avatar.jpeg";
+>>> CSharpImageUtil.ResizingAndSaving.ResizeAndSaveAsJpeg(BytesOfImage, path, width, height);
