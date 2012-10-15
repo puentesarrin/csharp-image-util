@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpImageUtil", "CSharpImageUtil\CSharpImageUtil.csproj", "{9EEDFA82-A3DB-449B-96A3-C97B7FCAA21E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9EEDFA82-A3DB-449B-96A3-C97B7FCAA21E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EEDFA82-A3DB-449B-96A3-C97B7FCAA21E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EEDFA82-A3DB-449B-96A3-C97B7FCAA21E}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{9EEDFA82-A3DB-449B-96A3-C97B7FCAA21E}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{9EEDFA82-A3DB-449B-96A3-C97B7FCAA21E}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{9EEDFA82-A3DB-449B-96A3-C97B7FCAA21E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EEDFA82-A3DB-449B-96A3-C97B7FCAA21E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9EEDFA82-A3DB-449B-96A3-C97B7FCAA21E}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{9EEDFA82-A3DB-449B-96A3-C97B7FCAA21E}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{9EEDFA82-A3DB-449B-96A3-C97B7FCAA21E}.Release|x86.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = CSharpImageUtil\CSharpImageUtil.csproj
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
